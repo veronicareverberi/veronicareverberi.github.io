@@ -19,8 +19,21 @@ input, button, textarea, select { font: inherit }
 
 body { 
     text-align: center;
-    font-family: sans-serif;
+    font-family: 'Poppins', sans-serif;
+    background-color: #F05B56;
+    
 }
+.content-wrap{
+    width: 800px;
+    margin: 0 auto;
+    padding: 50px 0;
+  }
+
+header {
+    background: #AD1F4E;
+    color: #F7FFF7;
+    
+  }
 
 h1 {
     font-size: 68px;
@@ -30,6 +43,7 @@ h1 {
     line-height: 1.2;
     overflow: hidden;
     white-space: nowrap;
+    color: #3D0B37;
     
 }
 
@@ -38,6 +52,7 @@ h2 {
     letter-spacing: 6px;
     margin-bottom: 40px;
     line-height: 1.2;
+    color: #3D0B37;
 }
 
 h3 {
@@ -46,10 +61,18 @@ h3 {
     margin-bottom: 20px;
     line-height: 1.2;
     text-transform: uppercase;
+    color: #3D0B37;
 }
 
 p {
     font-size: 20px;
     margin-bottom: 16px;
+    color: #3D0B37;
+}
+
+img{
+    width: 80%;
+    height:350px;
+   
 }
 
