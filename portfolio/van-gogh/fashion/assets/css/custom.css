@@ -1,9 +1,0 @@
-/* Add your custom styles here */
-section.theme-light.section-selector-1 { background-color: var(--trend-050) }
-section.theme-light.section-selector-2 { background-color: var(--orange-050) }
-section.theme-dark.section-selector-3 { background-color: var(--purple-800) }
-section.theme-dark.section-selector-3 h2 {color : white};
-body
-{
-    font-family: 'Playfair Display', serif;
-}
