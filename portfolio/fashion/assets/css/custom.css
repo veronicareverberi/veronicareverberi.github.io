@@ -3,7 +3,7 @@ section.theme-light.section-selector-1 { background-color: var(--trend-050) }
 section.theme-light.section-selector-2 { background-color: var(--orange-050) }
 
 section.theme-dark.section-selector-3 { background-color: var(--pink-700) }
-section.theme-dark.section-selector-3 h2 {color : white};
+section.theme-dark.section-selector-3 h2 {color : white}
 
 section.theme-dark.section-selector-4 { background-color: var(--green-800) }
 section.theme-dark.section-selector-4 .col-1 h2 { color: var(--white-000) }
