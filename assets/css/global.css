@@ -66,6 +66,7 @@ p {
     letter-spacing: -2px;
     line-height: 1.2;
     color: #3D0B37;
+    text-shadow: 2px 2px 4px #ddccdd;
 }
 
 .hero-block h2 {
@@ -76,3 +77,10 @@ p {
     color: #ddccdd;
 }
 
+.hero-block h3 {
+    font-size: 20px;
+    margin-bottom: 16px;
+    color: #ddccdd;
+    text-shadow: 2px 2px 4px #000000;
+    text-transform: none;
+}
