@@ -1,0 +1,35 @@
+section.theme-light.section-selector-1 { background-color: var(--trend-200) }
+
+.hero-block a.btn-secondary:link,
+.hero-block a.btn-secondary:visited { background-color: var(--trend-050) }
+
+.hero-block a.btn-secondary:focus,
+.hero-block a.btn-secondary:hover,
+.hero-block a.btn-secondary:active { background-color: var(--rose-800) }
+
+.hero-block a.btn-secondary:link,
+.hero-block a.btn-secondary:visited { color: var(--slate-900) }
+
+.hero-block a.btn-secondary:focus,
+.hero-block a.btn-secondary:hover,
+.hero-block a.btn-secondary:active { color: var(--slate-050) }
+
+.hero-block a.btn-primary:link,
+.hero-block a.btn-primary:visited { background-color: var(--trend-050) }
+
+.hero-block a.btn-primary:focus,
+.hero-block a.btn-primary:hover,
+.hero-block a.btn-primary:active { background-color: var(--rose-800) }
+
+.hero-block a.btn-primary:link,
+.hero-block a.btn-primary:visited { color: var(--slate-900) }
+
+
+.hero-block a.btn-primary:focus,
+.hero-block a.btn-primary:hover,
+.hero-block a.btn-primary:active { color: var(--slate-050) }
+
+
+
+
+
