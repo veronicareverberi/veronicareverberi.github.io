@@ -32,6 +32,12 @@ section.theme-light.section-selector-1 { background-color: var(--trend-200) }
 #btn-cta
 {
     border-radius: 25px;
+    
+}
+
+.menu-dark a#btn-cta:visited
+{
+background-color: var(--orange-400);
 }
 
   
@@ -77,3 +83,21 @@ section.theme-light.section-selector-1 { background-color: var(--trend-200) }
     }
   }
   
+.container-text h1
+{
+ font-family: 'Poppins', sans-serif;
+ letter-spacing: 3px;
+}
+
+.container-text h2
+{
+color: var(--orange-400);
+letter-spacing: 2px;
+font-weight:600;
+}
+
+.container-flex .col-1 h2
+{
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 2px;
+ }
