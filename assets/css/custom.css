@@ -101,3 +101,16 @@ font-weight:600;
   font-family: 'Poppins', sans-serif;
   letter-spacing: 2px;
  }
+
+/* Vertically aligning button at bottom of column */
+section .col-3, section .col-4 { display: flex; flex-direction: column }
+section .col-3 a.btn, section .col-4 a.btn { display: inline-block; width: fit-content }
+section .col-3 p, section .col-3 ul,
+section .col-4 p, section .col-4 ul { flex-grow: 1 }
+
+/* Background color on active hyperlinks in text */
+:is(.theme-light a:not(.btn):focus, 
+.theme-light a:not(.btn):hover, 
+.theme-light a:not(.btn):active) {
+  background-color: transparent;
+}
